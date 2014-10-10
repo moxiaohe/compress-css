@@ -1,0 +1,19 @@
+{
+  "name": "compress-css",
+  "version": "0.0.8",
+  "bin": {
+  		"compress-css": "./bin/compress-css.js"
+  	},
+  "description": "css compress",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "repository":"", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moxiaohe",
+  "license": "ISC"
+}
