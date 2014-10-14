@@ -12,7 +12,7 @@ Then you can:
 3. you can get a new file in the folder of the old css file, named ***.min.css
 ```
 
-###What I can do?
+###What can we do?
 for example,you han a css file named style.css like this:
 
 ```
@@ -39,7 +39,7 @@ content are those:
 p{margin:4px;text-indent:12px;background:url(images/test.jpg) left top no-repeat;_background:none}span{margin:4px;text-indent:12px;background:url(images/test.jpg) left top no-repeat;_background:none}
 ``` 
 
-###About author
+###About author?
 ```
 name:moxiaohe
 work at:suning.com
